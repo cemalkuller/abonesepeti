@@ -1,1 +1,1 @@
-<?php echo "Deneme" ; ?>s
+deneme
